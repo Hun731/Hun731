@@ -2,7 +2,7 @@
 
 Computational protein, enzyme, and materials design. I generate molecular systems, simulate them, and
 score them on physics before making a claim. Most of what I build runs end to end on an in-house GPU
-workstation and on national HPC.
+workstation.
 
 Dual degree in Bioscience and Biotechnology, IIT Kharagpur. Founder, Quiescent Labs.
 
